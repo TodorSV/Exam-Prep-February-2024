@@ -30,11 +30,11 @@ img {
 }
 
 .main {
-  flex: 0 0 55%;
+  flex: 0 0 52%;
 }
 
 .media {
-  flex: 0 0 40%;
+  flex: 1 0 40%;
 }
 
 h2 {
@@ -49,6 +49,8 @@ h1 {
 
 
 p {
+  text-indent: 40px;
+  line-height: 2em;
   margin-top: 1em;
 }
 
